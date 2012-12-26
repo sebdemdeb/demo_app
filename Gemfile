@@ -9,7 +9,6 @@ gem 'rails'
 #gem 'sqlite3-ruby','1.3.2', :require => 'sqlite3'
 gem 'sqlite3-ruby', '1.3.2', :group => :development
 gem 'sqlite3', :group => :development
-gem 'activerecord-sqlite3-adapter', :group => :development
 
 gem 'jquery-rails'
 
